@@ -1,0 +1,22 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codecool.BirthdayCalendar", "Codecool.BirthdayCalendar\Codecool.BirthdayCalendar.csproj", "{B66093F6-AAE5-4C57-8522-F1D6DCC14DDD}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Codecool.BirthdayCalendarTest", "Codecool.BirthdayCalendarTest\Codecool.BirthdayCalendarTest.csproj", "{FC1F5A96-38E7-40AA-94C9-D750D2B1C286}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{B66093F6-AAE5-4C57-8522-F1D6DCC14DDD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{B66093F6-AAE5-4C57-8522-F1D6DCC14DDD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{B66093F6-AAE5-4C57-8522-F1D6DCC14DDD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{B66093F6-AAE5-4C57-8522-F1D6DCC14DDD}.Release|Any CPU.Build.0 = Release|Any CPU
+		{FC1F5A96-38E7-40AA-94C9-D750D2B1C286}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{FC1F5A96-38E7-40AA-94C9-D750D2B1C286}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{FC1F5A96-38E7-40AA-94C9-D750D2B1C286}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{FC1F5A96-38E7-40AA-94C9-D750D2B1C286}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
